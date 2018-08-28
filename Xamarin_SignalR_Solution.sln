@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8C5071F7-1D89-4000-994E-82650FC94080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_SignalR", "src\Xamarin_SignalR\Xamarin_SignalR.csproj", "{79D79A44-5E43-4CB0-AABC-685C05DB2716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79D79A44-5E43-4CB0-AABC-685C05DB2716} = {8C5071F7-1D89-4000-994E-82650FC94080}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAA1B5A-282A-4BA0-9B7D-694213C9B805}
+	EndGlobalSection
+EndGlobal
