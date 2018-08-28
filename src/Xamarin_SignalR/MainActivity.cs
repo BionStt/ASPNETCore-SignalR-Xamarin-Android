@@ -35,7 +35,7 @@ namespace App2
 
 			//creating hub connection
 			var hubConnection = new HubConnectionBuilder()
-					.WithUrl("http://aspnetcoresignalrangulartypescript.azurewebsites.net/stock")
+					.WithUrl("enter your hub url here") //TODO
 					.Build();
 
 			// registering a handler
